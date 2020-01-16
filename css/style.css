@@ -1,8 +1,8 @@
 /* Website template by freewebsitetemplates.com */
 body {
 	background: url(../images/bg-body.jpg) repeat;
-	color: #6c5b37;
-	font-family: Arial, Helvetica, sans-serif;
+	color: #d9b3ff;
+	font-family: Verdana, Brush Script MT, sans-serif;
 	font-size: 14px;
 	margin: 0;
 	min-width: 960px;
@@ -101,7 +101,7 @@ div.body div:first-child div.header ul li {
 	text-transform: uppercase;
 }
 div.body div:first-child div.header ul li a {
-	color: #fffcdf;
+	color: #b3d9ff;
 	display: block;
 	height: 29px;
 	font-size: 12px;
@@ -114,7 +114,7 @@ div.body div:first-child div.header ul li a {
 }
 div.body div:first-child div.header ul li.current a {
 	background: url(../images/bg-menuselected.jpg) repeat-x;
-	color: #FFF;
+	color:#e6ffff;
 }
 div.body div:first-child div.header ul li a:hover {
 	color: #FFF;
