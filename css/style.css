@@ -558,10 +558,12 @@ div.body div#content div ul li div div ul {
 	margin: 0;
 	padding: 0 0 0 30px;
 	width: 190px;
+	
+	/* Stopped here*/
 }
 div.body div#content div ul li div div ul li {
 	border: 0;
-	color: #6C5B37;
+	color: #67699D;
 	height: auto;
 	line-height: 24px;
 	padding: 0 0 0 5px;
@@ -581,10 +583,10 @@ div.body div#content div div h3 a {
 	text-decoration: none;
 }
 div.body div#content div ul li div h3 a:hover {
-	color: #a60a49;
+	color: #67699D;
 }
 div.body div#content div ul li div p {
-	color: #6C5B37;
+	color: #67849D;
 	padding: 0; 
 }
 div.body div#content div ul li div p a,
