@@ -243,6 +243,8 @@ div.body div:first-child div.footer ul li h2 a {
 div.body div:first-child div.footer ul li img {
 	border-bottom: 1px solid #fcda55; 
 	border-top: 1px solid #fcda55;
+	
+	/* stop */
 }
 div.body div:first-child div.footer ul li:first-child {
 	margin: 0;
@@ -267,7 +269,7 @@ div.body div div:first-child img {
 }
 div.body div div h3,
 div.body div div h4 {
-	color: #850028;
+	color: #C2C4EB;
 	font-family: "Times New Roman", Times, serif;
 	font-size: 18px;
 	letter-spacing: 0.05em;
@@ -285,7 +287,7 @@ div.body div div h4:first-child {
 	padding: 7px 0 0;
 }
 div.body div div span {
-	color: #6c5b37;
+	color: #C2D8EB;
 	display: block;
 	font-family: "Times New Roman", Times, serif;
 	font-size: 18px;
@@ -438,7 +440,7 @@ div.body div#content {
 	width: 710px;
 }
 div.body div#content div {
-	background:  #f0ece3 url(../images/bg-content-bottom.gif) no-repeat center bottom;
+	background:  #EBC2D8 url(../images/bg-content-bottom.gif) no-repeat center bottom;
 	border-radius: 0;
 	height: auto;
 	padding: 13px 0 36px;
@@ -475,7 +477,7 @@ div.body div#content div div ol.ingredients {
 	padding: 0; 
 }
 div.body div#content div div ol.ingredients li {
-	color: #6C5B37;
+	color: #EAC2EB;
 	float: left;
 	line-height: 24px;
 	padding: 0;
@@ -491,7 +493,7 @@ div.body div#content div div ul {
 div.body div#content div div ul li {
 	background: none;
 	border: 0;
-	color: #6C5B37;
+	color: ##c2c4eb;
 	float: none;
 	height: auto;
 	margin: 0;
@@ -514,7 +516,7 @@ div.body div#content div ul {
 	padding: 20px 0 0;
 }
 div.body div#content div ul li {
-	background: #fdfcef;
+	background: #e9c2eb;
 	border-bottom: 1px solid #FCDA55;
 	border-top: 1px solid #FCDA55;
 	float: none;
@@ -530,7 +532,7 @@ div.body div#content div ul li a {
 	display: inline-block;
 }
 div.body div#content div ul li a img {
-	border: 1px solid #e7e6d5;
+	border: 1px solid #D5C2EB;
 	margin: 15px 18px 0 0;
 }
 div.body div#content div ul li div {
@@ -558,8 +560,7 @@ div.body div#content div ul li div div ul {
 	margin: 0;
 	padding: 0 0 0 30px;
 	width: 190px;
-	
-	/* Stopped Here*/
+
 }
 div.body div#content div ul li div div ul li {
 	border: 0;
