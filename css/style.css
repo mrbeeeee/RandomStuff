@@ -117,7 +117,7 @@ div.body div:first-child div.header ul li.current a {
 	color:#e6ffff;
 }
 div.body div:first-child div.header ul li a:hover {
-	color: #FFF;
+	color: #8e0034;
 }
 div.body div:first-child div.body {
 	background: none;
@@ -142,7 +142,7 @@ div.body div:first-child div.body ul {
 }
 div.body div:first-child div.body ul li {
 	background: url(../images/bg-separator.jpg) no-repeat left 10px;
-	color: #fffffd;
+	color: #d46a91;
 	float: left;
 	margin: 0 0 0 1px;
 	overflow: hidden;
@@ -178,7 +178,7 @@ div.body div:first-child div.body ul li div h2 {
 	margin: -2px 0 0;
 }
 div.body div:first-child div.body ul li div h2 a {
-	color: #fffffd;
+	color: #d46a91;
 	display: block;
 	float: none;
 	text-decoration: none;
@@ -194,10 +194,10 @@ div.body div:first-child div.body ul li.current h2 {
 	letter-spacing: normal;
 }
 div.body div:first-child div.body ul li.current h2 a {
-	color: #8e0034;
+	color: #EAC2EB;
 }
 div.body div:first-child div.body ul li.current p {
-	color: #8b8468;
+	color: #EAC2EB;
 }
 div.body div:first-child div.body ul li p {
 	line-height: 24px;
@@ -325,7 +325,7 @@ div.body div div ul#featured li div h2 {
 	line-height: 24px;
 }
 div.body div div ul#featured li div h2 a {
-	color: #6c5b37;
+	color: #EAC2EB;
 	float: none;
 	text-decoration: none;
 	text-transform: uppercase;
@@ -337,7 +337,7 @@ div.body div div a#twitter:hover,
 div.body div div a#youtube:hover,
 div.body div div a#flickr:hover,
 div.body div div a#googleplus:hover {
-	color: #6d4409;
+	color: #EAC2EB;
 }
 div.body div div ul#featured li div span {
 	font-family: Arial, Helvetica, sans-serif;
@@ -353,7 +353,7 @@ div.body div div ul#blog li {
 	padding: 10px 0;
 }
 div.body div div ul#blog li a {
-	color: #6c5b37;
+	color: #EAC2EB;
 	letter-spacing: 0.025em;
 	line-height: 24px;
 	margin: 0 0 7px;
@@ -493,7 +493,7 @@ div.body div#content div div ul {
 div.body div#content div div ul li {
 	background: none;
 	border: 0;
-	color: ##c2c4eb;
+	color: #c2c4eb;
 	float: none;
 	height: auto;
 	margin: 0;
@@ -516,7 +516,7 @@ div.body div#content div ul {
 	padding: 20px 0 0;
 }
 div.body div#content div ul li {
-	background: #000000;
+	background: #969696;
 	border-bottom: 1px solid #FCDA55;
 	border-top: 1px solid #FCDA55;
 	float: none;
@@ -571,7 +571,7 @@ div.body div#content div ul li div div ul li {
 	width: auto;
 }
 div.body div#content div ul li div h3 {
-	color: #7d0133;
+	color: #e6a3e6;
 	font-size: 18px;
 	line-height: 24px;
 	padding: 0;
@@ -579,7 +579,7 @@ div.body div#content div ul li div h3 {
 }
 div.body div#content div ul li div h3 a,
 div.body div#content div div h3 a {
-	color: #7d0133;
+	color: #bf82bf;
 	float: none;
 	text-decoration: none;
 }
